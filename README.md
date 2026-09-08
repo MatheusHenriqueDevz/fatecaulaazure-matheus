@@ -32,3 +32,8 @@ A comunicação via protocolo ICMP (Ping) entre as máquinas exigiu a liberaçã
      ```powershell
      New-NetFirewallRule -DisplayName "Allow ICMPv4-In" -Protocol ICMPv4 -IcmpType 8 -Direction Inbound -Action Allow
      ```
+## Imagens
+
+<img width="1334" height="123" alt="image" src="https://github.com/user-attachments/assets/8f33e555-b6a4-4825-bfd3-868549be1170" />
+<img width="1375" height="774" alt="image" src="https://github.com/user-attachments/assets/7325c2ac-84a3-42a6-ad65-65bb73ac1efe" />
+
